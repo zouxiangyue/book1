@@ -1,0 +1,21 @@
+{
+      "name": "book1",
+      "version": "1.0.0",
+      "description": "电子书1",
+      "scripts": {
+            "test": "echo \"Nothing need to test!\" && exit 0"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/zouxiangyue/book1.git"
+      },
+      "author": "zouxiangyue",
+      "license": "MIT",
+      "bugs": {
+            "url": "https://github.com/zouxiangyue/book1/issues"
+      },
+      "homepage": "https://github.com/zouxiangyue/book1#readme",
+      "devDependencies": {
+            "gitbook-cli": "^2.3.2"
+      }
+}
